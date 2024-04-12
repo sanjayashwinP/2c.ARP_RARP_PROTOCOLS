@@ -1,5 +1,5 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## NAME:SANJAY AHWIN P
+## NAME:SANJAY ASHWIN P
 ## REG NO:212223040181
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
